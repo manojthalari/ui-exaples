@@ -1,0 +1,9 @@
+{
+  "id": "uiActionsExamples",
+  "version": "7.13.2",
+  "server": false,
+  "ui": true,
+  "requiredPlugins": ["uiActions"],
+  "optionalPlugins": [],
+  "requiredBundles": ["kibanaReact"]
+}
